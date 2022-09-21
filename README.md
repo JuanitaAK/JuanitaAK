@@ -1,4 +1,7 @@
 ### Hi there 👋
+***
+Here are the _projetcs_ created during my studies at __Ada Tech School__ in Paris. 💪🏻
+
 
 <!--
 **JuanitaAK/JuanitaAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
