@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***
-Here are the _projetcs_ created during my studies at __Ada Tech School__ in Paris. 💪🏻
+Here are the _projects_ created during my studies at __Ada Tech School__ in Paris. 💪🏻
 
 
 <!--
