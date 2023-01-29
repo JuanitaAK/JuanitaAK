@@ -41,6 +41,14 @@
 - 💪🏻 Here are the **projects** created during my studies at **Ada Tech School** in Paris. 
 
 ---
+### 👀  My Stats : 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanitaAK&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitaAK&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
