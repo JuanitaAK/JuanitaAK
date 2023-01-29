@@ -1,6 +1,6 @@
 <div id="header" align="center">
  
-  <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=790b7611a9f93cfbc9db17348419a13d7be33ff578c8ecf2&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=790b7611a9f93cfbc9db17348419a13d7be33ff578c8ecf2&rid=giphy.gif&ct=g" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -19,8 +19,26 @@
 </h1>
 
 ***
+<!--
+🤸‍♂️ J'étudie le développement informatique à Ada Tech School, une école de code inclusive et féministe !
+📫 You can reach me at afanadorjuanita@gmail.com
+
+ J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
+
+👯 Mon apprentissage repose sur une succession de projets complets (front-end & back-end).
+
+🛹 Je recherche une alternance en entreprise pour compléter ma formation, à compter de mars 2023.
+
+-->
+
+
+
 ### :woman_technologist: About Me :
-Here are the _projects_ created during my studies at __Ada Tech School__ in Paris. 💪🏻
+- 🔭 I am currently studing computer scinence at [**Ada Tech School**](https://adatechschool.fr/) in Paris.
+- 📫 You can reach me at  [LinkedIn](https://www.linkedin.com/in/juanitaak/)
+- 🤓 I'm looking for a one year apprenticeship starting Mars 2023. Four days at the company, Fridays at school.
+- 🌱 During my training at Ada Tech School,I was able to develop my skills in various computer languages such as JavaScript, Html, CSS,        Swift, Python, and PHP, used SQL and NoSQL databases, such as MySQL and MongoDB, created servers with Node.js and Flask. I              familiarized myself with the use of Git and Docker, worked on projects using different frameworks and libraries such as SwiftUI,        React and Laravel.
+- 💪🏻 Here are the **projects** created during my studies at **Ada Tech School** in Paris. 
 
 ---
 
@@ -40,6 +58,7 @@ Here are the _projects_ created during my studies at __Ada Tech School__ in Pari
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40"                         height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40"                 height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40"                     height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40"                                    height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
