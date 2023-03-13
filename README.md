@@ -40,6 +40,7 @@
 - 🤓 I'm looking for a one year apprenticeship starting Mars 2023. Four days at the company, Fridays at school.
 - 🌱 During my training at Ada Tech School,I was able to develop my skills in various computer languages such as JavaScript, Html, CSS, Swift, Python, and PHP, used SQL and NoSQL databases, such as MySQL and MongoDB, created servers with Node.js and Flask. I am familiarized with the use of Git and Docker, worked on projects using different frameworks and libraries such as SwiftUI, React and Laravel.
 - 💪🏻 Here are the **projects** created during my studies at **Ada Tech School** in Paris. 
+- 👉 Here can see my last projects in React 👉 [**PokeDex**](https://pokedex-beige-nu.vercel.app/).
 
 ---
 ### 👀  My Stats : 
