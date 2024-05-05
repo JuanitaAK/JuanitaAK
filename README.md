@@ -23,7 +23,7 @@
 🤸‍♂️ J'étudie le développement informatique à Ada Tech School, une école de code inclusive et féministe !
 📫 You can reach me at afanadorjuanita@gmail.com
 
- J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
+ J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, TypeScript, SQL...
 
 👯 Mon apprentissage repose sur une succession de projets complets (front-end & back-end) et un 1 an d'expérience au sein de l'Accélerateur Digital de Sanofi.
 -->
@@ -31,13 +31,14 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I am currently studing computer scinence at [**Ada Tech School**](https://adatechschool.fr/) in Paris.
+- 🔭 I studied computer scinence at [**Ada Tech School**](https://adatechschool.fr/) in Paris.
 - 📫 You can reach me at  [LinkedIn](https://www.linkedin.com/in/juanitaak/).
 - 👀 You can see my 👉 [**portfolio**](https://juanita-ak.vercel.app/).
-- 🤓 I'm looking for a one year apprenticeship starting Mars 2023. Four days at the company, Fridays at school.
-- 🌱 During my training at Ada Tech School,I was able to develop my skills in various computer languages such as JavaScript, Html, CSS, Swift, Python, and PHP, used SQL and NoSQL databases, such as MySQL and MongoDB, created servers with Node.js and Flask. I am familiarized with the use of Git and Docker, worked on projects using different frameworks and libraries such as SwiftUI, React and Laravel.
+- 🤓 I'm looking for new adventure after one year at Sanofi's Digital Accelerator.
+- 🌱 During my training at Ada Tech School,I was able to develop my skills in various computer languages such as JavaScript, Html, CSS, React, Python, and PHP, used SQL and NoSQL databases, such as MySQL and MongoDB, created servers with Node.js and Flask. I am familiarized with the use of Git and Docker, worked on projects using different frameworks and libraries such as SwiftUI, React and Laravel.
 - 💪🏻 Here are the **projects** created during my studies at **Ada Tech School** in Paris. 
-- 👉 Here can see my last projects in React 👉 [**PokeDex**](https://pokedex-beige-nu.vercel.app/).
+- 👉 Here can see my last projects in **React** 👉 [**AI Story**](https://aistory.adahub.fr/)
+- 👉 Here is a fun one I also made [**PokeDex**](https://pokedex-beige-nu.vercel.app/).
 
 ---
 ### 👀  My Stats : 
