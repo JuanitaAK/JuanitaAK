@@ -32,13 +32,13 @@
 
 ### :woman_technologist: About Me :
 - 🔭 I studied computer scinence at [**Ada Tech School**](https://adatechschool.fr/) in Paris.
-- 📫 You can reach me at  [LinkedIn](https://www.linkedin.com/in/juanitaak/).
+- 📫 You can reach me at  [**LinkedIn**](https://www.linkedin.com/in/juanitaak/).
 - 👀 You can see my 👉 [**portfolio**](https://juanita-ak.vercel.app/).
 - 🤓 I'm looking for new adventure after one year at Sanofi's Digital Accelerator.
 - 🌱 During my training at Ada Tech School,I was able to develop my skills in various computer languages such as JavaScript, Html, CSS, React, Python, and PHP, used SQL and NoSQL databases, such as MySQL and MongoDB, created servers with Node.js and Flask. I am familiarized with the use of Git and Docker, worked on projects using different frameworks and libraries such as SwiftUI, React and Laravel.
 - 💪🏻 Here are the **projects** created during my studies at **Ada Tech School** in Paris. 
-- 👉 Here can see my last projects in **React** 👉 [**AI Story**](https://aistory.adahub.fr/)
-- 👉 Here is a fun one I also made [**PokeDex**](https://pokedex-beige-nu.vercel.app/).
+- 👉 Here can see my last full-stack projects with  **Next.JS**, **Node.js & Express**,  **OpenAI API**    👉 [**AI Story**](https://aistory.adahub.fr/)
+- 👉 Here is a fun one I also made in **React** [**PokeDex**](https://pokedex-beige-nu.vercel.app/).
 
 ---
 ### 👀  My Stats : 
