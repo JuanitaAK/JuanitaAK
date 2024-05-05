@@ -25,10 +25,7 @@
 
  J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
 
-👯 Mon apprentissage repose sur une succession de projets complets (front-end & back-end).
-
-🛹 Je recherche une alternance en entreprise pour compléter ma formation, à compter de mars 2023.
-
+👯 Mon apprentissage repose sur une succession de projets complets (front-end & back-end) et un 1 an d'expérience au sein de l'Accélerateur Digital de Sanofi.
 -->
 
 
