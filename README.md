@@ -34,7 +34,7 @@
 - 🔭 I studied computer scinence at [**Ada Tech School**](https://adatechschool.fr/) in Paris.
 - 📫 You can reach me at  [**LinkedIn**](https://www.linkedin.com/in/juanitaak/).
 - 👀 You can see my 👉 [**portfolio**](https://juanita-ak.vercel.app/).
--   Here you can see my last full-stack with AI project with  **Next.JS**, **Node.js & Express**, **Docker** and **OpenAI API** 🚀 [**AI Story**](https://aistory.adahub.fr/)
+- 🚀 Here you can see my last full-stack with AI project with  **Next.JS**, **Node.js & Express**, **Docker** and **OpenAI API**[**AI Story**](https://aistory.adahub.fr/)
 - 👉 Here is a fun one I also made in **React** [**PokeDex**](https://pokedex-beige-nu.vercel.app/).
 
 - 🤓 I'm looking for new adventure after one year at Sanofi's Digital Accelerator.
